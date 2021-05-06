@@ -1,0 +1,9 @@
+package polymorphismDemo;
+
+public class CustomerManager {
+	private BaseLogger baseLogger;
+	
+	public void Add() {
+		
+	}
+}

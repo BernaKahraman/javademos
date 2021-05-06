@@ -1,0 +1,13 @@
+package clasessWithAttributes;
+
+public class Main {
+
+	public static void main(String[] args) {
+		int id;
+		String name;
+		String description;
+		double price;
+		int stockAmount;
+	}
+
+}
