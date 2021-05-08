@@ -1,0 +1,11 @@
+package abstractClasses;
+
+public abstract class GameCalculator {
+
+	//base kýsým
+	public abstract void hesapla(); //hiçbir þekilde default olmayacak abstract eklediðimiz için
+	
+	public void gameOver() {
+		System.out.println("Oyun bitti");
+	}
+}

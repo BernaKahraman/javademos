@@ -1,0 +1,8 @@
+package interfaces;
+
+public class CustomerManager {
+
+	public void Add() {
+		//iþ kodlarý 
+	}
+}

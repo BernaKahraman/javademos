@@ -1,0 +1,10 @@
+package abstractClasses;
+
+public class GameCalculator {
+
+	//base kýsým
+	
+	public void hesapla() {
+		System.out.println("Puanýnýz : 100 ");
+	}
+}

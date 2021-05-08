@@ -1,0 +1,6 @@
+package abstractClasses;
+
+public class ManGameCalculator {
+
+	//erkek oyuncu için hesaplama
+}

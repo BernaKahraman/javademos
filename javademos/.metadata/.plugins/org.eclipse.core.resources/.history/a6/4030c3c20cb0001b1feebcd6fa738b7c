@@ -1,0 +1,10 @@
+package abstractDemo;
+
+public class CustomerManager{
+	
+	BaseDatabaseManager databaseManager; //base sınıf hangi veritabanını verirsek o gelicek
+	
+	public void getCustomers() {
+		databaseManager.getData();
+	}
+}

@@ -1,0 +1,10 @@
+package staticDemo;
+
+public class ProductValidator {
+
+	//ürünü kaydet- güncelle yaparken kurallara uygun olup olmadýðýný test eder
+	
+	public boolean isValid() {
+		
+	}
+}

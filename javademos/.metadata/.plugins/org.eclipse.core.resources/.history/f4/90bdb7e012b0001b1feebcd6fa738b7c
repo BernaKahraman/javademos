@@ -1,0 +1,12 @@
+package interfaces;
+
+public class CustomerManager {
+	
+	ICustomerDal customerDal;
+
+
+	public void Add() {
+		//iþ kodlarý 
+		customerDal.Add();
+	}
+}

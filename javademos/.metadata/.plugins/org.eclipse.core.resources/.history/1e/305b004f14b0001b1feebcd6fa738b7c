@@ -1,0 +1,5 @@
+package interfaceDemo;
+//bizim çalýþanýmýz þirket
+public class Worker implements IWorkable {
+
+}
